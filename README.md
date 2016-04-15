@@ -1,4 +1,4 @@
-Lob Package for Laravel
+Lob Package for Laravel 4
 ============
 
 Laravel Facade and Service Provider for Lob\Lob.
