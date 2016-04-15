@@ -18,7 +18,7 @@ Then add to the aliases array the following:
 'Lob' => 'Upwebdesign\Lob\Facade',
 ```
 
-Publish config file via `php artisan config:publish upwebdesign/laravel-lob`.
+Publish config file via `php artisan config:publish kcabading/laravel-lob`.
 
 ### Usage
 
