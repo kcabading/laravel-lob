@@ -7,7 +7,11 @@ This is a copy of this package https://github.com/upwebdesign/laravel-lob which 
 
 Installation
 ---
-To use, simply install the package via Composer and then add the following to your app/config/app.php to the service providers array:
+To use, simply install the package via Composer
+
+Add this to your composer.json file "kcabading/laravel-lob": "dev-master" and run composer update.
+
+Then add the following to your app/config/app.php to the service providers array:
 
 ```php
 'Upwebdesign\Lob\LobServiceProvider',
